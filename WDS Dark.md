@@ -1,3 +1,3 @@
 # WDS Dark
 
-`##363536,#5e5e5e,#FA4932,#ffffff,#534C55,#EEEDEF,#B2BB26,#ff457a`
+`#363536,#5e5e5e,#FA4932,#ffffff,#534C55,#EEEDEF,#B2BB26,#ff457a`
