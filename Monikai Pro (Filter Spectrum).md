@@ -1,1 +1,3 @@
+# Monokai Pro (Filter Spectrum)
+
 `#222222,#67656A,#DC577D,#F2ECF9,#67656A,#F2ECF9,#78D18B,#DC577D`
