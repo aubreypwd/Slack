@@ -1,4 +1,4 @@
-# Slack Grey's
+# Slack Grey
 
 <img width="1542" alt="CleanShot 2023-07-11 at 09 02 24@2x" src="https://github.com/aubreypwd/Slack/assets/1753298/38709379-c013-47b7-b6e5-3d608e14ac24">
 
